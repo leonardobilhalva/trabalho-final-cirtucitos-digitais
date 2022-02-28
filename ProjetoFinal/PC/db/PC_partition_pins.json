@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "In[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Carga_PC",
+					"strict" : false
+				},
+				{
+					"name" : "Incrementa_PC",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "In[6]",
+					"strict" : false
+				},
+				{
+					"name" : "In[5]",
+					"strict" : false
+				},
+				{
+					"name" : "In[4]",
+					"strict" : false
+				},
+				{
+					"name" : "In[3]",
+					"strict" : false
+				},
+				{
+					"name" : "In[2]",
+					"strict" : false
+				},
+				{
+					"name" : "In[1]",
+					"strict" : false
+				},
+				{
+					"name" : "In[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

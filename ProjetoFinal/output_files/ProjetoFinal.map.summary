@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Mon May 24 17:39:01 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : ProjetoFinal
+Top-level Entity Name : ProjetoFinal
+Family : Cyclone IV GX
+Total logic elements : 134
+    Total combinational functions : 126
+    Dedicated logic registers : 45
+Total registers : 45
+Total pins : 101
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

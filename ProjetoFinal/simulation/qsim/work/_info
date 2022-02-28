@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Leo/FACULDADE/QuartoSemestre/Circuitos Digitais/Trabalho Final/ProjetoFinal/simulation/qsim
+vhard_block
+Z1 !s110 1621888789
+!i10b 1
+!s100 RV`_0o5;5125R_T_E2J:M1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZQA7?EU[ZRloJBGV9@aFl2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1621888788
+Z5 8ProjetoFinal.vo
+Z6 FProjetoFinal.vo
+!i122 294
+L0 5144 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1621888789.000000
+Z9 !s107 ProjetoFinal.vo|
+Z10 !s90 -work|work|ProjetoFinal.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vProjetoFinal
+R1
+!i10b 1
+!s100 dJ]GHS2PhHDQJG`fLP0FZ0
+R2
+ISYRBJR=>3b8JlEHC`ZKV^3
+R3
+R0
+R4
+R5
+R6
+!i122 294
+L0 32 5111
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@projeto@final
+vProjetoFinal_vlg_vec_tst
+R1
+!i10b 1
+!s100 m8o1W>0Di2Ddi=l0?MhUC1
+R2
+IHb>N^b>h9DdhIh3UBg8]`2
+R3
+R0
+w1621888787
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+!i122 295
+L0 30 187
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R11
+R12
+n@projeto@final_vlg_vec_tst

@@ -1,0 +1,37 @@
+|PC
+Out[0] <= inst22a.DB_MAX_OUTPUT_PORT_TYPE
+Out[1] <= instb.DB_MAX_OUTPUT_PORT_TYPE
+Out[2] <= instb22.DB_MAX_OUTPUT_PORT_TYPE
+Out[3] <= instb23.DB_MAX_OUTPUT_PORT_TYPE
+Out[4] <= instb24.DB_MAX_OUTPUT_PORT_TYPE
+Out[5] <= instb25.DB_MAX_OUTPUT_PORT_TYPE
+Out[6] <= instb26.DB_MAX_OUTPUT_PORT_TYPE
+Out[7] <= instb27.DB_MAX_OUTPUT_PORT_TYPE
+Carga_PC => inst3.IN0
+In[0] => inst7ccc.IN0
+In[0] => inst5aa.IN1
+In[1] => inst7ddd.IN0
+In[1] => inst5cc.IN1
+In[2] => inst7ddd27.IN0
+In[2] => inst5cc25.IN1
+In[3] => inst7ddd28.IN0
+In[3] => inst5cc26.IN1
+In[4] => inst7ddd29.IN0
+In[4] => inst5cc27.IN1
+In[5] => inst7ddd30.IN0
+In[5] => inst5cc28.IN1
+In[6] => inst7ddd31.IN0
+In[6] => inst5cc29.IN1
+In[7] => inst7ddd32.IN0
+In[7] => inst5cc30.IN1
+Incrementa_PC => inst1aaa.IN0
+Clock => instb27.CLK
+Clock => instb24.CLK
+Clock => instb25.CLK
+Clock => instb26.CLK
+Clock => inst22a.CLK
+Clock => instb22.CLK
+Clock => instb.CLK
+Clock => instb23.CLK
+
+

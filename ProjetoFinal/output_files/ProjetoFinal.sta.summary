@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'On_Off'
+Slack : -2.442
+TNS   : -40.163
+
+Type  : Slow 1200mV 85C Model Setup 'Clock_Maquina_3'
+Slack : -1.976
+TNS   : -8.591
+
+Type  : Slow 1200mV 85C Model Setup 'clock_ganhei'
+Slack : -0.644
+TNS   : -2.444
+
+Type  : Slow 1200mV 85C Model Hold 'Clock_Maquina_3'
+Slack : -0.128
+TNS   : -0.253
+
+Type  : Slow 1200mV 85C Model Hold 'On_Off'
+Slack : 0.067
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock_ganhei'
+Slack : 0.460
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'On_Off'
+Slack : -3.000
+TNS   : -44.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock_Maquina_3'
+Slack : -3.000
+TNS   : -9.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_ganhei'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Setup 'On_Off'
+Slack : -2.096
+TNS   : -32.000
+
+Type  : Slow 1200mV 0C Model Setup 'Clock_Maquina_3'
+Slack : -1.669
+TNS   : -7.073
+
+Type  : Slow 1200mV 0C Model Setup 'clock_ganhei'
+Slack : -0.485
+TNS   : -1.816
+
+Type  : Slow 1200mV 0C Model Hold 'Clock_Maquina_3'
+Slack : -0.136
+TNS   : -0.264
+
+Type  : Slow 1200mV 0C Model Hold 'On_Off'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock_ganhei'
+Slack : 0.418
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'On_Off'
+Slack : -3.000
+TNS   : -44.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock_Maquina_3'
+Slack : -3.000
+TNS   : -9.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_ganhei'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Setup 'On_Off'
+Slack : -1.170
+TNS   : -19.209
+
+Type  : Fast 1200mV 0C Model Setup 'Clock_Maquina_3'
+Slack : -1.020
+TNS   : -5.350
+
+Type  : Fast 1200mV 0C Model Setup 'clock_ganhei'
+Slack : -0.490
+TNS   : -1.873
+
+Type  : Fast 1200mV 0C Model Hold 'Clock_Maquina_3'
+Slack : -0.103
+TNS   : -0.199
+
+Type  : Fast 1200mV 0C Model Hold 'On_Off'
+Slack : -0.083
+TNS   : -0.102
+
+Type  : Fast 1200mV 0C Model Hold 'clock_ganhei'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'On_Off'
+Slack : -3.000
+TNS   : -49.783
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock_Maquina_3'
+Slack : -3.000
+TNS   : -9.859
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_ganhei'
+Slack : -3.000
+TNS   : -7.450
+
+------------------------------------------------------------

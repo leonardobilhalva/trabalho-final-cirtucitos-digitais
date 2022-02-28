@@ -1,0 +1,413 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Vitoria",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_desejado_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Numero_escolhido_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Desejado_Mostrador_3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Escolhido_Mostrador_3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "On_Off",
+					"strict" : false
+				},
+				{
+					"name" : "Botao_escolhe_0",
+					"strict" : false
+				},
+				{
+					"name" : "Botao_escolhe_1",
+					"strict" : false
+				},
+				{
+					"name" : "Botao_escolhe_2",
+					"strict" : false
+				},
+				{
+					"name" : "Botao_escolhe_3",
+					"strict" : false
+				},
+				{
+					"name" : "Botao_Inicial",
+					"strict" : false
+				},
+				{
+					"name" : "Velocidade_escolha",
+					"strict" : false
+				},
+				{
+					"name" : "Clock_Maquina_2",
+					"strict" : false
+				},
+				{
+					"name" : "clock_ganhei",
+					"strict" : false
+				},
+				{
+					"name" : "Clock_Maquina_1",
+					"strict" : false
+				},
+				{
+					"name" : "Clock_Maquina_0",
+					"strict" : false
+				},
+				{
+					"name" : "Clock_Maquina_3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
